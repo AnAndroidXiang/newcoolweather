@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">酷欧天气</string>
+    <string name="guojia">中国</string>
+    <string name="weather_fail">获取天气信息失败</string>
+    <string name="bg_pic_fail">加载背景图片失败</string>
+    <string name="degrees">℃</string>
+    <string name="comfortable">舒适度：</string>
+    <string name="clear_car">洗车指数：</string>
+    <string name="sport">运动建议：</string>
+</resources>
